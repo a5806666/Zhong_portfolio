@@ -17,3 +17,7 @@
 .portfolio-title {
   -webkit-text-stroke: 1px black;
 }
+
+.flexbox{
+  justify-content: space-evenly;
+}
