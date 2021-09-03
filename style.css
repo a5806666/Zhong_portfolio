@@ -6,7 +6,7 @@
   margin-right: 15px;
 }
 
-.top-iamge {
+.top-image {
   text-align: center;
   background-image: url(https://i.ibb.co/BVFnPYn/pexels-joshua-t-954289-2.jpg);
   background-size: cover;
@@ -20,4 +20,8 @@
 
 .flexbox{
   justify-content: space-evenly;
+}
+
+.contetn-space{
+  padding: 10px;
 }
