@@ -6,6 +6,10 @@
   margin-right: 15px;
 }
 
+/* .navbar, .hero, #skill, #works, #contact{
+  display: none;
+} */
+
 .top-image {
   text-align: center;
   background-image: url(https://i.ibb.co/BVFnPYn/pexels-joshua-t-954289-2.jpg);
@@ -20,6 +24,11 @@
 
 .flexbox{
   justify-content: space-evenly;
+}
+
+.flex-box{
+  display: flex;
+  justify-content: center;
 }
 
 .contetn-space{
