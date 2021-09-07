@@ -38,3 +38,7 @@
 .text-rgba{
   opacity: 0;
 }
+
+.progress{
+  display: -webkit-inline-box;
+}
